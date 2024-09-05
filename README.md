@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Giu Alciati</h1>
-<h3 align="center">A SAD student from Brazil :monocle_face:
+<h3 align="center">A SAD student from Brazil :kiss:
 
 - 🌱 I’m currently learning **Java and SQL**
 
