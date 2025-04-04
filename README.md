@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Excel, Power BI, Python**
 
-- 📫 How to reach me **giulia.alciati@hotmail.com**
+- 📫 How to reach me **giulia.alciati@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
